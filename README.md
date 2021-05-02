@@ -69,3 +69,12 @@ https://youtu.be/PgG7s50f7Ic
 
 Part 14: Events
 https://youtu.be/qulZraCR8wQ
+
+
+Part 15: Forms
+https://youtu.be/3YMgdISVNdQ
+
+
+Part 16: Form Validation
+https://youtu.be/ahliQhFiPec
+
