@@ -62,3 +62,6 @@ https://youtu.be/xD0HCWwdZVI
 Part 12: Selects
 https://youtu.be/aRkfTqREAfg
 
+Part 13: DOM Manipulations
+https://youtu.be/PgG7s50f7Ic
+
